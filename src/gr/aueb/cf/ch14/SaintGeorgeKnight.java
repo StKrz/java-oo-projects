@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch14.singleton;
+package gr.aueb.cf.ch14;
 
 /**
  * Defines a Singleton SaintGeorgeKnight that
