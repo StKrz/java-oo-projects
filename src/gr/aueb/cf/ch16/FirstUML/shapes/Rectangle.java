@@ -1,7 +1,7 @@
-package gr.aueb.cf.ch16.UML1.shapes;
+package gr.aueb.cf.ch16.FirstUML.shapes;
 
-import gr.aueb.cf.ch16.UML1.AbstractShape;
-import gr.aueb.cf.ch16.UML1.ITwoDimensional;
+import gr.aueb.cf.ch16.FirstUML.AbstractShape;
+import gr.aueb.cf.ch16.FirstUML.ITwoDimensional;
 
 public class Rectangle extends AbstractShape implements ITwoDimensional {
     private long id;

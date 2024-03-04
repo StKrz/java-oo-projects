@@ -1,11 +1,10 @@
-package gr.aueb.cf.ch16.UML2.shapes;
+package gr.aueb.cf.ch16.SecondUML.shapes;
 
-import gr.aueb.cf.ch16.UML2.AbstractShape;
-import gr.aueb.cf.ch16.UML2.ICircle;
+import gr.aueb.cf.ch16.SecondUML.AbstractShape;
+import gr.aueb.cf.ch16.SecondUML.ICircle;
 
 public class Circle extends AbstractShape implements ICircle {
     private double radius;
-
     @Override
     public double getDiameter() {
         return 2 * radius;

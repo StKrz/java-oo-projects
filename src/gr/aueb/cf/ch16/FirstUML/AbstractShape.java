@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch16.UML1;
+package gr.aueb.cf.ch16.FirstUML;
 
 public class AbstractShape implements IShape{
     private long id;

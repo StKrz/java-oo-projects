@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch16.UML2;
+package gr.aueb.cf.ch16.SecondUML;
 
 public class AbstractShape implements IShape {
     private long id;
@@ -9,6 +9,6 @@ public class AbstractShape implements IShape {
 
     @Override
     public long getId() {
-        return 0;
+        return id;
     }
 }

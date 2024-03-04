@@ -1,9 +1,7 @@
-package gr.aueb.cf.ch16.UML2.shapes;
+package gr.aueb.cf.ch16.SecondUML.shapes;
 
-import gr.aueb.cf.ch16.UML2.AbstractShape;
-import gr.aueb.cf.ch16.UML2.IRectangle;
-
-import javax.swing.*;
+import gr.aueb.cf.ch16.SecondUML.AbstractShape;
+import gr.aueb.cf.ch16.SecondUML.IRectangle;
 
 public class Rectangle extends AbstractShape implements IRectangle {
     private double width;

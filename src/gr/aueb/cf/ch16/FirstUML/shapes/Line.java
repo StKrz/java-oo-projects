@@ -1,6 +1,6 @@
-package gr.aueb.cf.ch16.UML1.shapes;
+package gr.aueb.cf.ch16.FirstUML.shapes;
 
-import gr.aueb.cf.ch16.UML1.AbstractShape;
+import gr.aueb.cf.ch16.FirstUML.AbstractShape;
 
 public class Line extends AbstractShape {
     private double length;
